@@ -1,0 +1,1 @@
+Server=DOGUKAN\SQLEXPRESS;Database=ETA_MASTERV8;User=sa;Pwd=Etasql1
